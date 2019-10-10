@@ -1,5 +1,5 @@
 <template>
-    $END$
+    <div><h1>这是首页页面</h1></div>
 </template>
 
 <script>
